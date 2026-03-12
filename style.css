@@ -138,13 +138,13 @@ table {
     border: 1px solid #95a1bb;
     width: 300px;
     height: 196px;
+    font-size: 14px;
     /* Стили для таблицы */
 }
 
 th, td {
     border: 1px solid #95a1bb;
     padding: 12px 15px;
-    font-size: 14px;
     /* Стили для ячеек таблицы */
 }
 
